@@ -22,14 +22,14 @@ AgroGuru is a comprehensive web application developed using the MERN (MongoDB, E
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/AgroGuru.git`
+1. Clone the repository: `git clone https://github.com/adityam172003/AgroGuru.git`
 2. Navigate to the project directory: `cd AgroGuru`
 3. Install dependencies for both frontend and backend: `npm install`
 4. Configure MongoDB connection: Update the database configuration in `server/config/config.js`.
 5. Set up JWT secret: Update the secret key in `server/config/config.js` for authentication.
 6. Start the backend server: `npm run server`
 7. Start the frontend development server: `npm run client`
-8. Access the application in your web browser at `http://localhost:3000`
+8. Access the application in your web browser at `http://localhost:8000`
 
 ## Usage
 
