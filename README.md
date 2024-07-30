@@ -44,3 +44,79 @@ AgroGuru is a comprehensive web application developed using the MERN (MongoDB, E
 ---
 
 AgroGuru empowers farmers with crop prediction using Machine Learning, real-time weather information, and essential agricultural resources, built with the MERN stack and incorporating JWT authentication. 
+
+
+
+
+## Screens 
+
+
+
+## Home page 
+
+![Screenshot 2023-12-18 122935](https://github.com/user-attachments/assets/cd507740-c178-4327-b470-46876c4040b7)
+![Screenshot 2023-12-18 122955](https://github.com/user-attachments/assets/8de495e9-1262-4846-9feb-35c6466f6981)
+![Screenshot 2023-12-18 123009](https://github.com/user-attachments/assets/26a2d15d-db84-4819-ba3b-1701713faf2e)
+![Screenshot 2023-12-18 123019](https://github.com/user-attachments/assets/809bfd7d-dc5e-4a7a-9fb7-959b0948b8e9)
+
+## Profile page 
+
+
+![Screenshot 2023-12-18 125343](https://github.com/user-attachments/assets/d2fabec8-1def-4aa5-9813-1afda6b99298)
+![Screenshot 2023-12-18 124522](https://github.com/user-attachments/assets/c7c9bed0-a784-481d-8946-a6136de701e4)
+![Screenshot 2023-12-18 124535](https://github.com/user-attachments/assets/4def666b-1561-4f38-b1cd-29a1a736deaf)
+
+## Register Nursey 
+![Screenshot 2023-12-18 124548](https://github.com/user-attachments/assets/90a8ae7e-00ed-47dc-b265-cb375a228f54)
+
+## Weather and News updates 
+
+
+![Screenshot 2023-12-18 123408](https://github.com/user-attachments/assets/fa924159-b8e6-4e3f-a753-382161b9d139)
+![Screenshot 2023-12-18 123425](https://github.com/user-attachments/assets/fafc9403-8754-4e01-b36a-da8bd006ad53)
+
+
+## Crop prediction page 
+
+![Screenshot 2023-12-18 123134](https://github.com/user-attachments/assets/dc099524-583c-4886-88be-7a4b87335382)
+![Screenshot 2023-12-18 123146](https://github.com/user-attachments/assets/f4516161-2a15-4e31-9ff1-b30c40ff2c7b)
+![Screenshot 2023-12-18 123159](https://github.com/user-attachments/assets/ac3998f4-de4c-45d7-9a6f-029976be7039)
+
+
+## Market service 
+
+
+![Screenshot 2023-12-18 130429](https://github.com/user-attachments/assets/9fbf608e-6732-41be-99b6-6916ed4a5e6e)
+![Screenshot 2023-12-18 125753](https://github.com/user-attachments/assets/bceb73fb-63e8-4665-9711-c41b0028b833)
+
+## Register markets
+![Screenshot 2023-12-18 130246](https://github.com/user-attachments/assets/cf626716-49dd-49e6-a350-492821321578)
+
+
+## Our team 
+
+![Screenshot 2023-12-18 125839](https://github.com/user-attachments/assets/0fac304a-3f22-4eb0-9ffc-d3b01a9c4338)
+![Screenshot 2023-12-18 125902](https://github.com/user-attachments/assets/ee74b5bc-80a5-4791-9a84-9448ab4f1343)
+
+
+
+# Team task allocation 
+
+![AGRICULTURE](https://github.com/user-attachments/assets/b257ef30-eeb3-4357-b98c-595e7433b75c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
