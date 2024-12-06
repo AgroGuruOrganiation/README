@@ -93,21 +93,6 @@ AgroGuru empowers farmers with crop prediction using Machine Learning, real-time
 ![Screenshot 2023-12-18 130246](https://github.com/user-attachments/assets/cf626716-49dd-49e6-a350-492821321578)
 
 
-## Our team 
-
-![Screenshot 2023-12-18 125839](https://github.com/user-attachments/assets/0fac304a-3f22-4eb0-9ffc-d3b01a9c4338)
-![Screenshot 2023-12-18 125902](https://github.com/user-attachments/assets/ee74b5bc-80a5-4791-9a84-9448ab4f1343)
-
-
-
-# Team task allocation 
-
-![AGRICULTURE](https://github.com/user-attachments/assets/b257ef30-eeb3-4357-b98c-595e7433b75c)
-
-
-
-
-
 
 
 
